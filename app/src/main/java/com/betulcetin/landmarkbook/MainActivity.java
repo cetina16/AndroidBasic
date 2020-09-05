@@ -12,7 +12,6 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
 import java.util.ArrayList;
-//deneme
 
 public class MainActivity extends AppCompatActivity {
     ListView listView;
