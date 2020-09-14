@@ -8,9 +8,9 @@
 
     <TextView
         android:id="@+id/header1"
-        android:layout_width="309dp"
-        android:layout_height="73dp"
-        android:layout_marginTop="32dp"
+        android:layout_width="306dp"
+        android:layout_height="31dp"
+        android:layout_marginTop="16dp"
         android:text="Landmark"
         android:textAlignment="center"
         android:textSize="18sp"
@@ -20,8 +20,9 @@
 
     <TextView
         android:id="@+id/header2"
-        android:layout_width="352dp"
-        android:layout_height="192dp"
+        android:layout_width="362dp"
+        android:layout_height="214dp"
+        android:layout_marginBottom="8dp"
         android:text="Con"
         android:textAlignment="center"
         android:textSize="18sp"
@@ -33,8 +34,8 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="264dp"
-        android:layout_height="304dp"
+        android:layout_width="359dp"
+        android:layout_height="315dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
